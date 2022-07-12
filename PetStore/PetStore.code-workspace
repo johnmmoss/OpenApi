@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"yaml.schemas": {
+			"swaggerviewer:swagger": "file:///home/john/code/OpenApi/PetStore/petstore.yml"
+		}
+	}
+}
